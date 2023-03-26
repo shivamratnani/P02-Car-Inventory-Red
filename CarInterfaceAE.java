@@ -2,7 +2,7 @@
 public interface CarInterface {
 
 		//constructor (for Car class)
-		//public CarInterface(String name, int price, String make);
+		//public CarInterface(String name, int price, String make, String year);
 
 		//returns name of car (includes year and specific model)
 		public String getName();
