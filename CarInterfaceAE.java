@@ -12,5 +12,8 @@ public interface CarInterface {
 		
 		//returning make of the car
 		public String getYear();
+		
+		//returns String representation of object
+		public String toString();
 
 }
